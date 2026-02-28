@@ -83,3 +83,7 @@ This Commnads is to Install WOW64
 1: cd $HOME && rm -rf ~/xow64 && wget https://github.com/ar37-rs/xow64-wine/raw/refs/heads/main/xow64 && chmod +x ~/xow64
 
 2: ~/xow64 install
+
+click this link to get back to the hub
+
+https://github.com/Warlord19winter/The-Hub-For-Termux-Native-Desktop-Evironment
